@@ -3,10 +3,8 @@
 Kettle Online Business Intelligence Platform
 
 
-QQ Group:227385701
+QQ Group:839128
 
-Forum:http://www.uKettle.org
-
-Weibo:http://weibo.com/ukettle
+Forum:http://www.miaixz.org
 
 Running: update pom.xml database info
